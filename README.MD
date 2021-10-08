@@ -2,7 +2,7 @@
 
 ## https://programmers.co.kr/learn/challenges
 
-- [ ] 해시 
+- [x] 해시 
 - [ ] 스택/큐 
 - [ ] 힙(Heap) 
 - [ ] 정렬 
