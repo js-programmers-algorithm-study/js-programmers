@@ -3,9 +3,9 @@
 ## https://programmers.co.kr/learn/challenges
 
 - [x] 해시 
-- [ ] 스택/큐 
+- [x] 스택/큐 
 - [ ] 힙(Heap) 
-- [ ] 정렬 
+- [x] 정렬 
 - [ ] 완전탐색 
 - [ ] 탐욕법(Greedy) 
 - [ ] 동적계획법(Dynamic Programming) 
